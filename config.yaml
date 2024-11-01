@@ -1,0 +1,5 @@
+path: C:\Max\pythonProject1\Dataset
+train: C:\Max\pythonProject1\Dataset\images
+val: C:\Max\pythonProject1\Dataset\images
+nc: 1
+names: ['Roki']
